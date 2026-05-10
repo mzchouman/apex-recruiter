@@ -1,0 +1,26 @@
+{
+  "name": "apex-recruiter",
+  "version": "0.1.0",
+  "description": "Elite executive headhunter for Claude — diagnoses your CV against Harvard, Stanford, and Penn State ATS standards, optimizes for top-1% recruiter conversion, deploys against live job-market vacancies, and writes Harvard-framework cover letters.",
+  "author": {
+    "name": "Mohamad-Zouheir Chouman",
+    "email": "mzchouman@gmail.com"
+  },
+  "homepage": "https://github.com/mzchouman/apex-recruiter",
+  "repository": "https://github.com/mzchouman/apex-recruiter",
+  "license": "MIT",
+  "keywords": [
+    "recruiting",
+    "career",
+    "cv",
+    "resume",
+    "ats",
+    "ats-optimization",
+    "cover-letter",
+    "job-search",
+    "harvard",
+    "stanford",
+    "executive",
+    "headhunter"
+  ]
+}
